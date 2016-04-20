@@ -1,8 +1,12 @@
 
 push
-
+git add src
+git commit -m "proba"
 git remote add origin https://github.com/teamZeta/zeta.git
 git push -u origin master
+
+user: teamZeta
+pass: 14b1c1ca
 
 
 clone
@@ -11,4 +15,4 @@ git clone https://github.com/teamZeta/zeta.git
 
 pull
 
-git pull origin <branch>
+git pull origin master
