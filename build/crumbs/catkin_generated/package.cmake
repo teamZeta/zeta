@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "crumbs")
+set(crumbs_MAINTAINER "boka <boka@todo.todo>")
+set(crumbs_DEPRECATED "")
+set(crumbs_VERSION "0.0.0")
+set(crumbs_BUILD_DEPENDS "tf")
+set(crumbs_RUN_DEPENDS )
+set(crumbs_BUILDTOOL_DEPENDS "catkin")

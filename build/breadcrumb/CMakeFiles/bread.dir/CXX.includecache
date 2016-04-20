@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/boka/catkin_ws/src/breadcrumb/src/bread.cpp
+ros/ros.h
+-
+tf/transform_listener.h
+-
+visualization_msgs/Marker.h
+-
+

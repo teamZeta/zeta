@@ -1,0 +1,8 @@
+prefix=/home/boka/catkin_ws/install
+
+Name: tournament1
+Description: Description of tournament1
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/boka/catkin_ws/install/lib -lturtlebot_teleop
+Requires: roscpp geometry_msgs joy

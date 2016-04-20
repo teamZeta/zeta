@@ -1,0 +1,2 @@
+crumbs:facedetector:ferns_ros:learning_tf:localizer:my_navigation:my_pcl_tutorial:simple_navigation_goals:tournament1:turtlebot_vicos:usb_cam:using_markers:working_navigation
+-DCATKIN_DEVEL_PREFIX=/home/boka/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/boka/catkin_ws/install -G Unix Makefiles

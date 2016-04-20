@@ -1,0 +1,8 @@
+prefix=/home/boka/catkin_ws/install
+
+Name: my_navigation
+Description: Description of my_navigation
+Version: 2.3.3
+Cflags: 
+Libs: -L/home/boka/catkin_ws/install/lib 
+Requires: tf roscpp sensor_msgs

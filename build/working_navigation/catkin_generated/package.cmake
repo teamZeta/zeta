@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "working_navigation")
+set(working_navigation_MAINTAINER "boka <boka@todo.todo>")
+set(working_navigation_DEPRECATED "")
+set(working_navigation_VERSION "0.0.0")
+set(working_navigation_BUILD_DEPENDS )
+set(working_navigation_RUN_DEPENDS )
+set(working_navigation_BUILDTOOL_DEPENDS "catkin")

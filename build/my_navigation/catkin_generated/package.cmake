@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "my_navigation")
+set(my_navigation_MAINTAINER "OSRF <turtlebot@osrfoundation.org>")
+set(my_navigation_DEPRECATED "")
+set(my_navigation_VERSION "2.3.3")
+set(my_navigation_BUILD_DEPENDS "tf" "roscpp" "sensor_msgs")
+set(my_navigation_RUN_DEPENDS "tf" "roscpp" "sensor_msgs" "move_base" "map_server" "amcl" "gmapping" "turtlebot_bringup" "dwa_local_planner")
+set(my_navigation_BUILDTOOL_DEPENDS "catkin")
