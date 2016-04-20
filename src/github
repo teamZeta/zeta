@@ -1,0 +1,14 @@
+
+push
+
+git remote add origin https://github.com/teamZeta/zeta.git
+git push -u origin master
+
+
+clone
+
+git clone https://github.com/teamZeta/zeta.git
+
+pull
+
+git pull origin <branch>
