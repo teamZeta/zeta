@@ -1,0 +1,8 @@
+prefix=/home/boka/catkin_ws/install
+
+Name: working_navigation
+Description: Description of working_navigation
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/boka/catkin_ws/install/lib 
+Requires: 

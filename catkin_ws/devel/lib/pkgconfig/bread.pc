@@ -1,0 +1,8 @@
+prefix=/home/boka/catkin_ws/devel
+
+Name: bread
+Description: Description of bread
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/boka/catkin_ws/devel/lib 
+Requires: 

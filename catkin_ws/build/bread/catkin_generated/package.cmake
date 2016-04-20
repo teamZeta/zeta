@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "bread")
+set(bread_MAINTAINER "boka <boka@todo.todo>")
+set(bread_DEPRECATED "")
+set(bread_VERSION "0.0.0")
+set(bread_BUILD_DEPENDS )
+set(bread_RUN_DEPENDS )
+set(bread_BUILDTOOL_DEPENDS "catkin")

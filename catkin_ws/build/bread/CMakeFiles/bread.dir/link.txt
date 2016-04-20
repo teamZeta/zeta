@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/bread.dir/src/bread.cpp.o  -o /home/boka/catkin_ws/devel/lib/bread/bread -rdynamic 

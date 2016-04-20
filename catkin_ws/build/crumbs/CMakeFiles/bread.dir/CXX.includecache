@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/boka/catkin_ws/src/crumbs/src/bread.cpp
+ros/ros.h
+-
+tf/transform_listener.h
+-
+geometry_msgs/Twist.h
+-
+visualization_msgs/Marker.h
+-
+visualization_msgs/MarkerArray.h
+-
+turtlesim/Spawn.h
+-
+

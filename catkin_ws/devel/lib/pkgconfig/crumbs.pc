@@ -1,0 +1,8 @@
+prefix=/home/boka/catkin_ws/devel
+
+Name: crumbs
+Description: Description of crumbs
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/boka/catkin_ws/devel/lib 
+Requires: 

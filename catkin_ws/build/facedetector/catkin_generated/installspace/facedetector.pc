@@ -1,0 +1,8 @@
+prefix=/home/boka/catkin_ws/install
+
+Name: facedetector
+Description: Description of facedetector
+Version: 0.1.0
+Cflags: -I/home/boka/catkin_ws/install/include
+Libs: -L/home/boka/catkin_ws/install/lib 
+Requires: message_runtime
